@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/6d70ade1-2cc1-40db-8027-db77234a16f8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/agrya-basicapp",
-    "appService.deploySubpath": "."
-}
